@@ -14,10 +14,10 @@
 
 
 <p align="left" dir="auto">
-  <a href="www.linkedin.com/in/ruben-perez-castrillo">
+  <a href="https://www.linkedin.com/in/ruben-perez-castrillo">
     <img width="50px" alt="LinkedIn" title="LinkedIn" src="https://cdn.pixabay.com/photo/2017/03/17/06/48/linkedin-2151049_1280.png">
   </a>
-  <a href="www.gmail.com">
+  <a href="https://www.gmail.com">
     <img width="50px" alt="E-mail" title="E-mail" src="https://cdn.pixabay.com/photo/2017/03/17/06/47/email-2151046_1280.png">
   </a>
 </p>
